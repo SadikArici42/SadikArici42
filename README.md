@@ -123,8 +123,8 @@ func main() {
 
 ## 🎯 2026 Goals
 
-- [x] İlk açık kaynak kütüphaneyi yayınlamak
-- [x] 1000+ GitHub yıldızı
+- [ ] İlk açık kaynak kütüphaneyi yayınlamak
+- [ ] 1000+ GitHub yıldızı
 - [ ] Rust ile production-grade bir servis yazmak
 - [ ] Kubernetes CKA sertifikasını almak
 - [ ] Teknopreneurship: kendi SaaS ürünümü launch etmek 🚀
