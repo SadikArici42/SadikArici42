@@ -59,7 +59,7 @@ func main() {
 - 🔭 Şu anda **Nebula** adlı, self-hosted bulut depolama platformu üzerinde çalışıyorum
 - 🌱 Şu anda **Rust** ve **dağıtık sistemler** öğreniyorum
 - 👯 Açık kaynak projelerde iş birliğine açığım
-- 💆 Bana şunlar hakkında soru sorabilirsin: **Go, React, PostgreSQL, Kubernetes**
+- 💆 Bana şunlar hakkında soru sorabilirsin: **Go, React, PostgreSQL, Kubernetes, Rust**
 - ⚡ Fun fact: İşleri otomatikleştiriyorum ki otomatikleştirecek daha çok şey için zamanım olsun
 
 ---
