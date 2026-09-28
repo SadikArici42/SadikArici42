@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,100:4FD6BE&height=200&section=header&text=Sadık Arıcı&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=c7d3f5&animation=fadeIn" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,100:4FD6BE&height=200&section=header&text=SadıkArıcı&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=c7d3f5&animation=fadeIn" width="100%" alt="banner" />
 
 </div>
 
